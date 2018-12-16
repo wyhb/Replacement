@@ -1,0 +1,25 @@
+{
+  "WorkSpace": "D:\\tmn",
+  "ReplaceTexts": [
+    {
+      "Before": "pay",
+      "After": "novation",
+      "FileExtension": ".vb"
+    },
+    {
+      "Before": "NoPay",
+      "After": "Common",
+      "FileExtension": ".aspx"
+    }
+  ],
+  "FileRenames": [
+    {
+      "Before": "PayMST1.aspx.cs",
+      "After": "NovationMST1.aspx.cs"
+    },
+    {
+      "Before": "NoPayMST1.aspx.cs",
+      "After": "CommonMST1.aspx.cs"
+    }
+  ]
+}
